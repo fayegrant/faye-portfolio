@@ -12,8 +12,14 @@ Projects
 1. NHS Service Utilisation Analysis
 Python | Pandas | Matplotlib | NLP
 
+View project 
+
 2. 2Market Customer Analysis 
 Python | R | Scikit-learn | NLTK | tidyverse
 
+View project
+
 3. Turtle Games Sales & Customer Analysis 
 Python | R | Jupyter Notebook
+
+View project
