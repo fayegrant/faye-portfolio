@@ -20,9 +20,14 @@ Python | Pandas | Matplotlib | NLP
 3. 2Market Customer Analysis 
 Python | R | Scikit-learn | NLTK | tidyverse
 
-View project
+[View Project](https://github.com/fayegrant/faye-portfolio/blob/main/Assignment%20Exploratory%20analysis%20and%20presenting%20insights.pdf)
+
+
+[Python notebook](https://github.com/fayegrant/faye-portfolio/blob/main/Assignment%20Exploratory%20analysis%20and%20presenting%20insights.twbx)
 
 3. Turtle Games Sales & Customer Analysis 
 Python | R | Jupyter Notebook
 
-View project
+[View project] (https://github.com/fayegrant/faye-portfolio/blob/main/Grant_Faye_DA201_Assignment_Notebook-1.ipynb)
+
+[R studio script] ()
