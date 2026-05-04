@@ -12,7 +12,7 @@ Projects
 1. NHS Service Utilisation Analysis
 Python | Pandas | Matplotlib | NLP
 
-View project [Link text]("Grant_Faye_DA201_Assignment_Report-1.pdf")
+View project [Link text]("https://github.com/fayegrant/faye-portfolio/blob/main/Grant_Faye_DA201_Assignment_Report-1.pdf")
 
 2. 2Market Customer Analysis 
 Python | R | Scikit-learn | NLTK | tidyverse
