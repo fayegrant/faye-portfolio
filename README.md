@@ -12,7 +12,7 @@ Projects
 1. NHS Service Utilisation Analysis
 Python | Pandas | Matplotlib | NLP
 
-View project [Link text]("C:\Users\Faye Grant\OneDrive\Documents\Data baddie\course 3 - NHS\Assignment.docx")
+View project [Link text]("Grant_Faye_DA201_Assignment_Report-1.pdf")
 
 2. 2Market Customer Analysis 
 Python | R | Scikit-learn | NLTK | tidyverse
