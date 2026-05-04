@@ -13,6 +13,7 @@ Projects
 Python | Pandas | Matplotlib | NLP
 
 [View Project](https://github.com/fayegrant/faye-portfolio/blob/main/Grant_Faye_DA201_Assignment_Report-1.pdf)
+[Python notebook](https://github.com/fayegrant/faye-portfolio/blob/main/Grant_Faye_DA201_Assignment_Notebook-1.ipynb)
 
 3. 2Market Customer Analysis 
 Python | R | Scikit-learn | NLTK | tidyverse
