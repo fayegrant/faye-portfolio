@@ -28,6 +28,6 @@ Python | R | Scikit-learn | NLTK | tidyverse
 3. Turtle Games Sales & Customer Analysis 
 Python | R | Jupyter Notebook
 
-[View project] (https://github.com/fayegrant/faye-portfolio/blob/main/Grant_Faye_DA201_Assignment_Notebook-1.ipynb)
+[View project](https://github.com/fayegrant/faye-portfolio/blob/main/Grant_Faye%20_DA301_Assignment_Report.pdf.docx)
 
-[R studio script] ()
+[R studio script](https://github.com/fayegrant/faye-portfolio/blob/main/Grant_Faye_DA301_Assignment_Rscript.R..R)
